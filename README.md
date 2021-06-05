@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am currently learning python
+I am student at Sri Sairam Engineering College
 
 <!--
 **coder-cat03/coder-cat03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
